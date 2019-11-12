@@ -5,7 +5,13 @@ body
     padding: 0;
     font-family: 'Josefin Sans', sans-serif;
 }
-
+img
+{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    opacity: 50%;
+}
 .card
 {
     position: absolute;
